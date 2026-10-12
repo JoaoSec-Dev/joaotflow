@@ -11,24 +11,24 @@ Meu objetivo é aprofundar meus conhecimentos em segurança ofensiva e defensiva
         <img
             alt="Seguidores"
             title="Seguidores no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/JoaoSec-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/JoaoSec-Dev?tab=repositories&sort=stargazers">
         <img
             alt="Estrelas"
             title="Total de estrelas"
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/JoaoSec-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories">
+    <a href="https://github.com/JoaoSec-Dev?tab=repositories">
         <img
             alt="Repositórios"
             title="Meus repositórios"
             src="https://img.shields.io/badge/Projetos-GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <a href="https://www.linkedin.com/in/joão-vitor-6436b2314/">
         <img
             alt="LinkedIn"
             title="Meu LinkedIn"
@@ -57,10 +57,10 @@ Meu objetivo é aprofundar meus conhecimentos em segurança ofensiva e defensiva
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-    <a href="https://github.com/SEU_USUARIO">
+    <a href="https://github.com/JoaoSec-Dev">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
     </a>
-    <a href="https://github.com/SEU_USUARIO">
+    <a href="https://github.com/JoaoSec-Dev">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&locale=pt-br" />
     </a>
 </div>
@@ -81,7 +81,7 @@ Meu objetivo é aprofundar meus conhecimentos em segurança ofensiva e defensiva
                 <img src="https://img.shields.io/badge/Security-0A66C2?style=flat-square" />
             </p>
             <p align="center">
-                <a href="https://github.com/SEU_USUARIO/cybersecurity-lab-documentation">Ver projeto ↗</a>
+                <a href="https://github.com/JoaoSec-Dev/cybersecurity-lab-documentation">Ver projeto ↗</a>
             </p>
         </td>
         <td width="33%" valign="top">
@@ -94,7 +94,7 @@ Meu objetivo é aprofundar meus conhecimentos em segurança ofensiva e defensiva
                 <img src="https://img.shields.io/badge/Security-0A66C2?style=flat-square" />
             </p>
             <p align="center">
-                <a href="https://github.com/SEU_USUARIO/python-log-analyzer">Ver projeto ↗</a>
+                <a href="https://github.com/JoaoSec-Dev/python-log-analyzer">Ver projeto ↗</a>
             </p>
         </td>
         <td width="33%" valign="top">
@@ -107,7 +107,7 @@ Meu objetivo é aprofundar meus conhecimentos em segurança ofensiva e defensiva
                 <img src="https://img.shields.io/badge/Database-Security-0A66C2?style=flat-square" />
             </p>
             <p align="center">
-                <a href="https://github.com/SEU_USUARIO/database-security-lab">Ver projeto ↗</a>
+                <a href="https://github.com/JoaoSec-Dev/database-security-lab">Ver projeto ↗</a>
             </p>
         </td>
     </tr>
