@@ -7,7 +7,7 @@ Estudante de Direito (4º período) e Engenharia de Software (1º período), com
 Meu objetivo é aprofundar meus conhecimentos em segurança ofensiva e defensiva, desenvolvimento e análise de aplicações, compartilhando aqui meus estudos, projetos e evolução na área de tecnologia.
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <a href="https://github.com/JoaoSec-Dev?tab=followers">
         <img
             alt="Seguidores"
             title="Seguidores no GitHub"
